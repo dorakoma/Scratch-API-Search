@@ -7,3 +7,12 @@
      color: #2a5298
    }
 
+#button-list {
+  height: 100%;
+  width: 60px;
+  background-color: #333;
+  position: fixed;
+  left: 0;
+  z-index: 30;
+  font-size: 15px;
+}
