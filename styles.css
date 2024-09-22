@@ -16,3 +16,7 @@
   z-index: 30;
   font-size: 15px;
 }
+
+.container {
+  padding-left: 70px;
+}
