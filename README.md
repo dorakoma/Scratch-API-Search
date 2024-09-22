@@ -5,4 +5,4 @@ API site https://api.scratch.mit.edu
 
 Run page https://dorakoma.github.io/Scratch-API-Search/index.html
 
-Page Colorhttps://colorhunt.co/palette/347928c0eba6fffbe6fccd2a
+Page Color https://colorhunt.co/palette/347928c0eba6fffbe6fccd2a
