@@ -1,4 +1,4 @@
-   /* styles.css */
+/* styles.css */
    body {
        background-color: #b0c4de;
    }
@@ -17,10 +17,10 @@
       font-size: 15px;
     }
     h1 {
-        padding-left: 70px; /* H1ƒ^ƒO‚É20px‚ÌƒpƒfƒBƒ“ƒO‚ğİ’è */
+        padding-left: 70px; /* H1ã‚¿ã‚°ã«20pxã®ãƒ‘ãƒ‡ã‚£ãƒ³ã‚°ã‚’è¨­å®š */
     }
    
-/*  ƒz[ƒ€ƒ{ƒ^ƒ“  */
+/*  ãƒ›ãƒ¼ãƒ ãƒœã‚¿ãƒ³  */
 #home-button{
   width: 60px;
   height: 60px;
